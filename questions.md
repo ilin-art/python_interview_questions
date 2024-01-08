@@ -11,12 +11,12 @@
 - `frozenset` () - неупорядоченная неизменяемая последовательность уникальных объектов
 - `bool`
 - `NoneType`
-Делятся на  изменяемые(mutable) и неизменяемые(immutable)
-Изменяемые:
+#### Делятся на  изменяемые(mutable) и неизменяемые(immutable)
+#### Изменяемые:
 - `list`
 - `dict`
 - `set`
-Подробнее: https://www.youtube.com/watch?v=hSdZxrpTkh0&ab_channel=%D0%A5%D0%B8%D1%82%D1%80%D1%8B%D0%B9%D0%BF%D0%B8%D1%82%D0%BE%D0%BD
+#### Подробнее: https://www.youtube.com/watch?v=hSdZxrpTkh0&ab_channel=%D0%A5%D0%B8%D1%82%D1%80%D1%8B%D0%B9%D0%BF%D0%B8%D1%82%D0%BE%D0%BD
 
 ## Последовательности
 
